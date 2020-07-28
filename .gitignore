@@ -1,11 +1,13 @@
 # Node build artifacts
 node_modules
+front-twa-beta/node_modules
 npm-debug.log
 
 # Local development
 *.env
 *.dev
 .DS_Store
+package-lock.json
 
 # Docker
 Dockerfile
